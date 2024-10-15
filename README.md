@@ -15,14 +15,7 @@ Contributing
 # CSS3: For styling the layout, colors, and responsiveness.
 # Font Awesome: For using scalable vector icons.
 # CDN Links: For faster access to external libraries.
-# Folder Structure
-bash
-Copy code
-root/
-│
-├── index.html         # The main HTML file for the webpage
-├── style.css          # External CSS for styling the webpage
-└── images/            # Folder containing images used in the webpage
+
 # How to Run the Project
 Download or clone the repository to your local machine.
 Open index.html in any web browser.
